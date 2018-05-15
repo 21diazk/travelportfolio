@@ -1,4 +1,18 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
 <link rel="shortcut icon" href="images/favicon.png">
+<LINK REL=StyleSheet HREF="MyStyle.css" TYPE="text/css">
+<title>American Travel: Kristi Diaz Index Page</title></head>
+<body>
+<h1>American Travel</h1>
+<div id = "skipnav"><a href = "#main">Skip to Main Content</a>
+<br/>
+<nav><a href= "index.html"> Index</a> 
+<a href= "finalAccessibility.html">Accessibility</a>
+<a href= "finalUsability.html">Usability</a>
+<a href= "finalGraphics.html">Graphics</a>
+<a href= "finalJavascript.html">Javascript</a>
+<a href= "finalTools.html">Tools</a>
+<a href= "finalVideo.html">Video</a></nav>
+</div>
