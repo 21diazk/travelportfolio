@@ -1,7 +1,7 @@
 body {
 	margin-left: 10%;
 	margin-right: 10%;
-	background-color: #143D84; 
+	background-color: #F5F5DC; 
 	width:80%;
 	min-width: 720px;
 	margin: 0 auto;
@@ -15,7 +15,7 @@ div {
 	margin:3px;
 }
 h1 {
-	background-color: #9bcd9b;
+	background-color: #143D84;
 	padding:1em;
 	border-width: 1.5px;
 	border-style:dotted;
