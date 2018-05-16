@@ -37,5 +37,42 @@ h3 {
 p {
 	margin:25px;
 }
+div#skipnav {
+	position: relative;
+	top: 5px;
+	left: 5px;
+	right: 12.5%;
+	color: black;
+	font-weight: bold;
+	background: white;
+	border: 2px;
+	padding: .2em;
+	text-align: center;
+}
+div.info {
+	color: black;
+	text-align: left;
+	font-size: 1.2em;
+	fort-family: serif;
+	width: 40%;
+}
+/*navigation menu styles*/
 nav{
-	
+	padding: 0.25em;
+	text-decoration: underline;
+	background-color: #069A29;/* green*/
+	color: #F58244;/*orange*/
+	border: 2px solid black;
+	border-top-left-radius: 1em 1em;/*rounded corner!*/
+	border-top-right-radius: 1em 1em;/*another rounded corner!*/
+	float: center;
+	position: fixed;
+	right: 2px;
+	left: 2px;
+	top: 3px;
+}
+nav a:hover, a:focus {
+	color: black;
+	backgroung-color: white;
+	font-weight: bold;
+}
