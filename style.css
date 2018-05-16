@@ -1,1 +1,16 @@
-
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color:#d8ecff;
+	width:80%;
+	min-width: 720px;
+	margin: 0 auto;
+}
+div {
+	box-shadow: 2px 5px;
+	border: 2px solid black;
+	border-radius: 25px;
+	background-color: white;
+	padding:1em;
+	margin:3px;
+}
