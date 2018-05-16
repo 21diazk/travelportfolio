@@ -73,6 +73,6 @@ nav{
 }
 nav a:hover, a:focus {
 	color: black;
-	backgroung-color: white;
+	background-color: red;
 	font-weight: bold;
 }
