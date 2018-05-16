@@ -14,3 +14,25 @@ div {
 	padding:1em;
 	margin:3px;
 }
+h1 {
+	background-color: #d4a8ea;
+	padding:1em;
+	border-width: 1.5px;
+	border-style:dotted;
+	border-color: black;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: nexa rust;
+	font-size:55px;
+	text-align:center;
+}
+h2 {
+	text-align:center;
+}
+h3 {
+	font-family: times new roman;
+	font-size: 20px;
+}
+p {
+	margin:25px;
+}
