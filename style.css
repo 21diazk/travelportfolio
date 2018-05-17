@@ -77,3 +77,7 @@ nav a:hover, a:focus {
 	background-color: red;
 	font-weight: bold;
 }
+ul {
+	background-color: white;
+	margin:0px auto;
+	text-alignment: center;
