@@ -27,12 +27,13 @@ h1 {
 	text-align: center;
 	color: white;		
 }
-h2 {
+h3 {
 	text-align:center;
 }
-h3 {
+h2 {
 	font-family: Bradley Hand, cursive;
 	font-size: 20px;
+	text-align:center;
 }
 p {
 	margin:25px;
@@ -44,7 +45,7 @@ div#skipnav {
 	right: 12.5%;
 	color: black;
 	font-weight: bold;
-	background: white;
+	background: fc660f;
 	border: 2px;
 	padding: .2em;
 	text-align: center;
