@@ -38,7 +38,8 @@ h2 {
 	border-style: dotted;
 	border-width: 1px;
 	border-color: black;
-	margin-left: 10%;nd;
+	margin-left: 10%;
+	margin-right: 10%
 	font-size: 20px;
 	text-align: center;
 }
@@ -93,7 +94,7 @@ ul {
 	text-align:center;
 }
 li {
-	text-align: center
+	text-align: center;
 	font-size: 25px;
 	font-family: bradley hand;
 	margin:0px auto;
