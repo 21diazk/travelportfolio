@@ -38,16 +38,7 @@ h2 {
 	border-style: dotted;
 	border-width: 1px;
 	border-color: black;
-	margin-left: 10%;
-	color: black;
-	margin-right: 10%;	
-	font-family: Bradley Hand, cursive;
-	font-size: 20px;
-	text-align:center;
-}
-li {
-	text-align: center;
-	font-family: bradley hand;
+	margin-left: 10%;nd;
 	font-size: 20px;
 }
 p {
@@ -93,6 +84,15 @@ nav a:hover, a:focus {
 	font-weight: bold;
 }
 ul {
-	background-color: white;
+	background-color: #ccccff;
+	color: black;
+	margin-right: 10%;	
+	font-family: Bradley Hand, cursive;
+	font-size: 30px;
+	text-align:center;
+}
+li {
+	text-align: center;
+	font-family: bradley hand;
 	margin:0px auto;
 	text-alignment: center;
