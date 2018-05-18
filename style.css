@@ -28,11 +28,19 @@ h1 {
 	color: white;		
 }
 h3 {
-	background-color:
-	padding
-	text-align:center;
+	background-color:#950000;
+	padding: .2em;
+	text-align: center;
 }
 h2 {
+	background-color:#ccccff;
+	padding: .2em;
+	border-style: dotted;
+	border-width: 1px;
+	border-color: black;
+	margin-left: 10%;
+	color: black;
+	margin-right: 10%;	
 	font-family: Bradley Hand, cursive;
 	font-size: 20px;
 	text-align:center;
