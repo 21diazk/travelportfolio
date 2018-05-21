@@ -42,8 +42,7 @@ h2 {
 	margin-right: 10%
 	font-size: 20px;
 	text-align: center;
-}
-p {
+}0p {
 	margin:25px;
 }
 div#skipnav {
@@ -107,6 +106,6 @@ table {
 	border-style: solid;
 	margin: 0px auto;
 	font-family: bingo;
-	font-size: 25px;
+	font-size: 20px;
 	text-align: center;
 }
