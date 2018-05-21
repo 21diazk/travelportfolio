@@ -22,7 +22,7 @@ h1 {
 	border-color: black;
 	margin-left: 10%;
 	margin-right: 10%;
-	font-family: Bradley Hand, cursive;
+	font-family: fenwick;
 	font-size: 100px;
 	text-align: center;
 	color: white;		
@@ -49,6 +49,7 @@ p {
 div#skipnav {
 	position: relative;
 	top: 5px;
+
 	left: 5px;
 	right: 12.5%;
 	color: black;
@@ -99,3 +100,13 @@ li {
 	font-family: bradley hand;
 	margin:0px auto;
 	text-alignment: center;
+}
+table {
+	padding: 1.5em;
+	border-width: 5px;
+	border-style: solid;
+	margin: 0px auto;
+	font-family: bingo;
+	font-size: 25px;
+	text-align: center;
+}
