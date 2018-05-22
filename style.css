@@ -109,3 +109,20 @@ table {
 	font-size: 20px;
 	text-align: center;
 }
+th {
+	padding: 1em;
+	border-width: 2px;
+	border-style: dotted;
+	border-color: black;
+	margin:0px auto;
+	font-size:30px;
+	background-color:  #8fbc8f
+}
+td {
+	padding: 1em;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	margin: 5px;
+	background-color: #efdecd
+}
