@@ -126,3 +126,7 @@ td {
 	margin: 5px;
 	background-color: #efdecd
 }
+p {	font-size: 30px;
+	text-alignment: center;
+	font-color: black;
+}
