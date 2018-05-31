@@ -79,6 +79,7 @@ nav{
 	right: 2px;
 	left: 2px;
 	top: 3px;
+	font-size: 25px
 }
 nav a:hover, a:focus {
 	color: black;
